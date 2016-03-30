@@ -1,3 +1,13 @@
+# Curso de programación para Android Java
+
+## Marzo-Abril de 2016. CEP de Granada
+
+## José Antonio Vacas @javacasm
+
+javacasm@gmail.com
+
+![cc](https://raw.githubusercontent.com/javacasm/CodeWeek-programacion/master/images/Licencia_CC.png)
+
 # Preguntas precuentes sobre Android
 
 ## SDK
