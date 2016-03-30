@@ -24,8 +24,4 @@ javacasm@gmail.com
 3. Componentes de pantallas: Layouts
 	* Adaptación a diferentes resoluciones y dispositivos
 
-4. Bases de datos
-	* Operaciones de listado, insercion, eliminación y actualización
-	* Controles avanzados y datos
-
-5. Desarrollo de proyectos
+4. Desarrollo de proyectos
