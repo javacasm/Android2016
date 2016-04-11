@@ -1,4 +1,4 @@
-# Curso de programación para Android Java
+# Desarrollo de aplicaciones Android (161811FP07)
 
 ## Marzo-Abril de 2016. CEP de Granada
 
@@ -10,11 +10,11 @@ javacasm@gmail.com
 
 [1. Instalación](./instalacion.md)
 
-[2. Primera Aplicacion](./PrimeraAlicacion.md)
+[2. Primera Aplicacion](./PrimeraAlicacion.md) ([Ejemplo Hello World](https://github.com/javacasm/HelloWorldAndroid))
 
 [3. Estructura de una aplicación](./EstructuraAplicacion.md)
 
-[4. Diseñando el interface](./DisenioUI.md)
+[4. Diseñando el interface](./DisenioUI.md) ([Calculadora v1](https://github.com/javacasm/Calculadora2016v1))
 
 [5. Comenzando a programar](./ComenzandoProgramar.md)
 
