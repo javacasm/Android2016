@@ -11,9 +11,9 @@ javacasm@gmail.com
 
 [Contenidos en https://github.com/javacasm/Android2016](https://github.com/javacasm/Android2016)
 
-# [Contenidos](./temario/contenidos.md)
+# [Indice](./temario/contenidos.md)
 
-# [Resumen](./temario/indice.md)
+# [Contenidos](./temario/README.md) 
 
 # [Presentaciones](./temario)
 
