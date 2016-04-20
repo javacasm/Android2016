@@ -29,7 +29,7 @@ Dependiendo de la versión del sistema operativo instalado instalaremos el JDK d
 
 ## Instalación de Android Studio
 
-La instalación de Android Studio es bastante sencilla, basta con ejecutarla y el paquete irá revisando si nos falta algún compomente (de no tener instalado el JDK, en este momento nos lo pediría)
+La instalación de Android Studio es bastante sencilla, basta con ejecutarla y el paquete irá revisando si nos falta algún componente (de no tener instalado el JDK, en este momento nos lo pediría)
 
 ![instal](./imagenes/android-studio-setup-wizard.png)
 
