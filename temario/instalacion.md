@@ -15,7 +15,7 @@ javacasm@gmail.com
 
 ## Prerequisitos
 
-Para instalar Android Studio necesitamos intalar primero el entorno de desarrollo de Java (JDK) en su versión 7
+Para instalar Android Studio necesitamos instalar primero el entorno de desarrollo de Java (JDK) en su versión 7
 
 No es suficiente con tener instalado el entorno de ejecución de Java (JRE)
 
